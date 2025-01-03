@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log Out_opacity-50  origin-left w-full _193505</name>
+   <tag></tag>
+   <elementGuidId>cc2529a9-6536-4e88-91ee-093004ba1b7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/nav/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.opacity-50</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a091a3f-8a5b-4b3f-b314-f9a8dab38c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>opacity-50  origin-left w-full h-screen absolute top-0 lg:hidden bg-black transform transition ease-in-out duration-1000</value>
+      <webElementGuid>31bc7d7c-aa53-4c77-9a9f-7059f6fadada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-gray-50 text-base dark:bg-gray-800 dark:text-gray-100&quot;]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[1]/div[1]/nav[@class=&quot;navbar-parent transition-position duration-1000 z-30 left-0 lg:left-64&quot;]/div[@class=&quot;opacity-50  origin-left w-full h-screen absolute top-0 lg:hidden bg-black transform transition ease-in-out duration-1000&quot;]</value>
+      <webElementGuid>3c01b242-26c2-4b87-ba1b-a3d4e89b71bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/nav/div[3]</value>
+      <webElementGuid>df52b3a7-8f16-41d8-9808-4669533d0792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[3]</value>
+      <webElementGuid>718d68f1-27d1-4ea0-9a7c-e978005b58f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Parent Student Internal</name>
+   <tag></tag>
+   <elementGuidId>30057c01-a702-4253-96b4-701997783f03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/form/div[3]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9abe7931-33d1-4c53-858d-103849f5d5d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Parent Student Internal</value>
+      <webElementGuid>8ce6bb29-5dd5-4415-80e8-3529ea6fecfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;full-screen&quot;]/body[@class=&quot;bg-gray-50 text-base dark:bg-gray-800 dark:text-gray-100&quot;]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[1]/div[@class=&quot;login-public&quot;]/div[@class=&quot;container-login&quot;]/div[@class=&quot;input-login&quot;]/form[1]/div[@class=&quot;continer-input&quot;]/div[@class=&quot;content-input&quot;]/select[1]</value>
+      <webElementGuid>770e5fbb-47e5-49e3-b1e7-3edfe6847dba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/form/div[3]/div/select</value>
+      <webElementGuid>bc0c1a47-ab8b-43f9-8939-1d61e98b6984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember'])[1]/preceding::select[1]</value>
+      <webElementGuid>2b305e0d-d0e4-4cef-b2ac-362d4e016d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[1]</value>
+      <webElementGuid>4ff81239-1917-44e2-8192-d8dac92babda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>fad22fab-4cb0-415f-9db3-9abc93932624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Parent Student Internal' or . = 'Select Parent Student Internal')]</value>
+      <webElementGuid>0b76ac8b-705e-445d-8315-50b0d7c124bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
