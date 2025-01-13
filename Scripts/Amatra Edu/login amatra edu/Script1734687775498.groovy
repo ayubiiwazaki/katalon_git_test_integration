@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://edu-demo.amatraedu.com/#/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login  AMATRA EDUCATION/input_text'), 'admin')
+WebUI.sendKeys(findTestObject('Object Repository/Page_Login  AMATRA EDUCATION/input_text'), 'admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  AMATRA EDUCATION/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
@@ -29,16 +29,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Login  AMATRA E
     'Internal', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Login  AMATRA EDUCATION/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard  AMATRA EDUCATION/div_Log Out_opacity-50  origin-left w-full _193505'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard  AMATRA EDUCATION/svg_Log Out_inline-block inline-flex justif_853cdd'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard  AMATRA EDUCATION/button_Add'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard  AMATRA EDUCATION/input_Title_title'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard  AMATRA EDUCATION/input_Show Time_date'))
 
 WebUI.closeBrowser()
 
